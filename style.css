@@ -1,0 +1,38 @@
+nav {
+    background-color: #ff5733;
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#banner {
+    background: linear-gradient(to right, #ff5733, #33ff57);
+    text-align: center;
+    padding: 0px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#banner img {
+    max-width: 100%;
+    /* Ajuste conforme necessário */
+    margin-right: 10px;
+}
